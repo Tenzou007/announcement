@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="248.0" prefWidth="160.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21" fx:controller="test.announcemnet.SelAudienceOptController">
+    <stylesheets>
+        <URL value="@selaudienceopt.css" />
+    </stylesheets>
+   <children>
+      <ChoiceBox prefHeight="25.0" prefWidth="161.0" />
+   </children>
+</AnchorPane>
